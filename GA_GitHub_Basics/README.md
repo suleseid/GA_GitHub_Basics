@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace GA_GitHub_Basics
 {
-    internal class Program
+    class README
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, Professor!");
-        }
     }
 }
